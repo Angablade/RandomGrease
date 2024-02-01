@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         HDRD signal updater.
+// @name         HDHR signal updater.
 // @version      0.2
 // @description  Keeps signal info updated.
 // @author       ANGABLADE
